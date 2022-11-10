@@ -14,7 +14,7 @@
   </b>
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/amos-bocelli-bab86411a">
+  <a href="www.linkedin.com/in/amos-bocelli-bab86411a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/amosbocelli/">
