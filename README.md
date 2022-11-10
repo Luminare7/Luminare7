@@ -1,4 +1,23 @@
-Hi, This is Amos.
-An Italian in the world of music, science and finance who enjoys coding to relax and have some fun.  
-LinkedIn: www.linkedin.com/in/amos-bocelli-bab86411a  
-Instagram: https://www.instagram.com/amosbocelli/  
+# Hi, This is Amos. 👻
+<b>
+  An Italian guy in the world of music, science and finance who enjoys coding to relax and have some fun. 
+</b>
+<br></br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,unreal,vscode,github&theme=dark&perline=3" />
+  </a>
+</p>
+<p align="center">
+  <b>
+    Connect:
+  </b>
+</p>
+<p align="center">
+  <a href="www.linkedin.com/in/amos-bocelli-bab86411a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/amosbocelli/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p
