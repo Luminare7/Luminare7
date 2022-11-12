@@ -5,7 +5,7 @@
 <br></br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,unreal,vscode,github&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,unreal,vscode,github,html,css&theme=dark&perline=4" />
   </a>
 </p>
 <p align="center">
