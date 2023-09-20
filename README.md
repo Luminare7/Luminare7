@@ -1,6 +1,6 @@
 # Hi, This is Amos. 👻
 <b>
-  An Italian guy in the world of music, science and finance who enjoys coding to relax and have some fun. 
+  An Italian guy in the world of music, science and finance. 
 </b>
 <br></br>
 <p align="center">
